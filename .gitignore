@@ -38,3 +38,12 @@ captures/
 
 # Keystore files
 *.jks
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Mac system files
+.DS_Store
